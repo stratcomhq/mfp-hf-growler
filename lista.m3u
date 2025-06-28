@@ -2767,13 +2767,10 @@ https://thedaddy.click/stream/stream-31.php
 #EXTINF:-1 tvg-id="1sttestday4westindiesvsaustralia" tvg-name="Cricket | 1st Test | Day 4 : West Indies vs Australia (16:00)" tvg-logo="https://raw.githubusercontent.com/stratcomhq/mfp-hf-growler/main/logos/West Indies_vs_Australia.png" group-title="Eventi Live",Cricket | 1st Test | Day 4 : West Indies vs Australia (16:00)
 https://thedaddy.click/stream/stream-33.php
 
-#EXTINF:-1 tvg-id="majorleaguecricketlosangelesknightridersvsseattleorcas" tvg-name="Cricket | Major League Cricket : Los Angeles Knight Riders vs Seattle Orcas (02:00)" tvg-logo="https://crictoday.com/wp-content/uploads/2023/07/Los_Angeles_Knight_Riders_Logo-removebg-preview.png" group-title="Eventi Live",Cricket | Major League Cricket : Los Angeles Knight Riders vs Seattle Orcas (02:00)
-https://thedaddy.click/stream/stream-920.php
-
 #EXTINF:-1 tvg-id="eastbourneatpwtamallorcaatpbadhomburgwta" tvg-name="Tennis | Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA (11:30)" tvg-logo="https://badhomburg-open.de/wp-content/uploads/2020/05/new-logo-300x300.png" group-title="Eventi Live",Tennis | Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA (11:30)
 https://thedaddy.click/stream/stream-46.php
 
-#EXTINF:-1 tvg-id="wrcrallygreecespecialstage8" tvg-name="Motorsport | WRC Rally Greece | Special Stage 8 (07:22)" tvg-logo="https://i.pinimg.com/originals/c3/a8/68/c3a868d5bb0b184c7eab0bd298451bd3.png" group-title="Eventi Live",Motorsport | WRC Rally Greece | Special Stage 8 (07:22)
+#EXTINF:-1 tvg-id="wrcrallygreecespecialstage8" tvg-name="Motorsport | WRC Rally Greece | Special Stage 8 (07:22)" tvg-logo="https://images.seeklogo.com/logo-png/19/2/wrc-fia-world-rally-logo-png_seeklogo-196351.png" group-title="Eventi Live",Motorsport | WRC Rally Greece | Special Stage 8 (07:22)
 https://thedaddy.click/stream/stream-212.php
 
 #EXTINF:-1 tvg-id="moto3dutchgrandprixfreepractice2" tvg-name="Motorsport | Moto3 : Dutch Grand Prix Free Practice 2 (08:30)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/ksxcfb1568976756.png" group-title="Eventi Live",Motorsport | Moto3 : Dutch Grand Prix Free Practice 2 (08:30)
@@ -2812,7 +2809,7 @@ https://thedaddy.click/stream/stream-32.php
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://new.newkso.ru/nfs/premium575/mono.m3u8
 
-#EXTINF:-1 tvg-id="motoeround2netherlandsrace1" tvg-name="Motorsport | MotoE | Round 2 | Netherlands Race 1 (12:00)" tvg-logo="https://electricmotorcycles.nl/uploads/images/page/detail/motoelogo.png" group-title="Eventi Live",Motorsport | MotoE | Round 2 | Netherlands Race 1 (12:00)
+#EXTINF:-1 tvg-id="motoeround2netherlandsrace1" tvg-name="Motorsport | MotoE | Round 2 | Netherlands Race 1 (12:00)" tvg-logo="https://www.gresiniracing.com/wp-content/uploads/2025/01/motoe-gresini-2025.png" group-title="Eventi Live",Motorsport | MotoE | Round 2 | Netherlands Race 1 (12:00)
 https://thedaddy.click/stream/stream-32.php
 
 #EXTINF:-1 tvg-id="formula1msccruisesaustriangppractice3" tvg-name="Motorsport | Formula 1 : MSC Cruises Austrian GP - Practice 3 (12:30)" tvg-logo="https://logospng.org/download/formula-1/formula-1-4096.png" group-title="Eventi Live",Motorsport | Formula 1 : MSC Cruises Austrian GP - Practice 3 (12:30)
@@ -2839,7 +2836,7 @@ https://new.newkso.ru/nfs/premium575/mono.m3u8
 #EXTINF:-1 tvg-id="moto2dutchgrandprixqualifying" tvg-name="Motorsport | Moto2 : Dutch Grand Prix Qualifying (13:40)" tvg-logo="https://1.bp.blogspot.com/--h_B_gQgA5M/X7dzqBuFa1I/AAAAAAAAKcA/_64dF25d7LQDis3x67-bnWXPQwPKkVAVACLcBGAsYHQ/w1200-h630-p-k-no-nu/Moto2.png" group-title="Eventi Live",Motorsport | Moto2 : Dutch Grand Prix Qualifying (13:40)
 https://thedaddy.click/stream/stream-32.php
 
-#EXTINF:-1 tvg-id="moto2dutchgrandprixqualifying" tvg-name="Motorsport | Moto2 : Dutch Grand Prix Qualifying (13:40)" tvg-logo="https://1.bp.blogspot.com/--h_B_gQgA5M/X7dzqBuFa1I/AAAAAAAAKcA/_64dF25d7LQDis3x67-bnWXPQwPKkVAVACLcBGAsYHQ/w1200-h630-p-k-no-nu/Moto2.png" group-title="Eventi Live",Motorsport | Moto2 : Dutch Grand Prix Qualifying (13:40)
+#EXTINF:-1 tvg-id="moto2dutchgrandprixqualifying" tvg-name="Motorsport | Moto2 : Dutch Grand Prix Qualifying (13:40)" tvg-logo="https://1.bp.blogspot.com/-dt6mSIGyYDs/XPVByA3agjI/AAAAAAAAIJs/_6R4IvD5Gh43Bsk4SSoCKUveuK953FQkgCLcBGAs/s72-c/Moto2%2BLogo%2B%255Bwww.blogovector.com%255D.png" group-title="Eventi Live",Motorsport | Moto2 : Dutch Grand Prix Qualifying (13:40)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
@@ -2848,7 +2845,7 @@ https://new.newkso.ru/nfs/premium575/mono.m3u8
 #EXTINF:-1 tvg-id="formula2msccruisesaustriangpsprintracespielberg" tvg-name="Motorsport | Formula 2 : MSC Cruises Austrian GP Sprint Race - Spielberg (14:15)" tvg-logo="https://assets.antenaplay.ro/2024/02/28/YW9VML2K4hpFUKMHme97.png" group-title="Eventi Live",Motorsport | Formula 2 : MSC Cruises Austrian GP Sprint Race - Spielberg (14:15)
 https://thedaddy.click/stream/stream-60.php
 
-#EXTINF:-1 tvg-id="formula2msccruisesaustriangpsprintracespielberg" tvg-name="Motorsport | Formula 2 : MSC Cruises Austrian GP Sprint Race - Spielberg (14:15)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/3iwfjg1536242234.png" group-title="Eventi Live",Motorsport | Formula 2 : MSC Cruises Austrian GP Sprint Race - Spielberg (14:15)
+#EXTINF:-1 tvg-id="formula2msccruisesaustriangpsprintracespielberg" tvg-name="Motorsport | Formula 2 : MSC Cruises Austrian GP Sprint Race - Spielberg (14:15)" tvg-logo="https://assets.antenaplay.ro/2024/02/28/YW9VML2K4hpFUKMHme97.png" group-title="Eventi Live",Motorsport | Formula 2 : MSC Cruises Austrian GP Sprint Race - Spielberg (14:15)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
@@ -2866,7 +2863,7 @@ https://thedaddy.click/stream/stream-39.php
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://new.newkso.ru/nfs/premium575/mono.m3u8
 
-#EXTINF:-1 tvg-id="nascarcraftsmantruckseriesliuna150qualifying" tvg-name="Motorsport | NASCAR Craftsman Truck Series LiUNA! 150, Qualifying (15:30)" tvg-logo="http://www.jayski.com/wp-content/uploads/sites/31/2025/3/18/LRP-Liuna-150-Logo-2025_vFinal-01-L.png" group-title="Eventi Live",Motorsport | NASCAR Craftsman Truck Series LiUNA! 150, Qualifying (15:30)
+#EXTINF:-1 tvg-id="nascarcraftsmantruckseriesliuna150qualifying" tvg-name="Motorsport | NASCAR Craftsman Truck Series LiUNA! 150, Qualifying (15:30)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/08/NASCAR-Craftsman-Truck-Series-Logo.png" group-title="Eventi Live",Motorsport | NASCAR Craftsman Truck Series LiUNA! 150, Qualifying (15:30)
 https://thedaddy.click/stream/stream-39.php
 
 #EXTINF:-1 tvg-id="formula1msccruisesaustriangpqualifying" tvg-name="Motorsport | Formula 1 : MSC Cruises Austrian GP - Qualifying (16:00)" tvg-logo="https://logospng.org/download/formula-1/formula-1-4096.png" group-title="Eventi Live",Motorsport | Formula 1 : MSC Cruises Austrian GP - Qualifying (16:00)
@@ -2881,10 +2878,10 @@ https://thedaddy.click/stream/stream-45.php
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://new.newkso.ru/nfs/premium577/mono.m3u8
 
-#EXTINF:-1 tvg-id="motoeround2netherlandsrace2" tvg-name="Motorsport | MotoE | Round 2 | Netherlands Race 2 (16:00)" tvg-logo="https://www.gresiniracing.com/wp-content/uploads/2023/01/motoe-gresini.png" group-title="Eventi Live",Motorsport | MotoE | Round 2 | Netherlands Race 2 (16:00)
+#EXTINF:-1 tvg-id="motoeround2netherlandsrace2" tvg-name="Motorsport | MotoE | Round 2 | Netherlands Race 2 (16:00)" tvg-logo="https://www.gresiniracing.com/wp-content/uploads/2025/01/motoe-gresini-2025.png" group-title="Eventi Live",Motorsport | MotoE | Round 2 | Netherlands Race 2 (16:00)
 https://thedaddy.click/stream/stream-32.php
 
-#EXTINF:-1 tvg-id="gtworldchallengeeuropemotorracing24hoursofspa" tvg-name="Motorsport | GT World Challenge Europe Motor Racing - 24 Hours of Spa (18:00)" tvg-logo="https://www.gt-world-challenge-europe.com/assets/img/fanatec-gtwc-europe-aws.png" group-title="Eventi Live",Motorsport | GT World Challenge Europe Motor Racing - 24 Hours of Spa (18:00)
+#EXTINF:-1 tvg-id="gtworldchallengeeuropemotorracing24hoursofspa" tvg-name="Motorsport | GT World Challenge Europe Motor Racing - 24 Hours of Spa (18:00)" tvg-logo="https://www.gt-world-challenge-europe.com/images/bgts/gtwc-europe.png" group-title="Eventi Live",Motorsport | GT World Challenge Europe Motor Racing - 24 Hours of Spa (18:00)
 https://thedaddy.click/stream/stream-449.php
 
 #EXTINF:-1 tvg-id="promotocrosschampionshipsouthwicknational" tvg-name="Motorsport | Pro Motocross Championship Southwick National (19:00)" tvg-logo="https://s3.amazonaws.com/uploads.webconnex.com/27292/promxshield.png?1622473054839" group-title="Eventi Live",Motorsport | Pro Motocross Championship Southwick National (19:00)
@@ -2905,7 +2902,7 @@ https://thedaddy.click/stream/stream-39.php
 #EXTINF:-1 tvg-id="arcamenardsserieslimerockpark" tvg-name="Motorsport | ARCA Menards Series Lime Rock Park (22:00)" tvg-logo="https://d136swi17h0tnq.cloudfront.net/Upload/2020-07/62aa2bc7-38fa-4bfc-82c6-0c3c11ca5933_lrg.png" group-title="Eventi Live",Motorsport | ARCA Menards Series Lime Rock Park (22:00)
 https://thedaddy.click/stream/stream-758.php
 
-#EXTINF:-1 tvg-id="ferrarichallengeeuropecoppashellcircuitricardotormoinvalenciaspain" tvg-name="Motorsport | Ferrari Challenge Europe Coppa Shell - Circuit Ricardo Tormo in Valencia, Spain (23:00)" tvg-logo="https://soat3d.it/wp-content/uploads/2023/03/Circuit-Ricardo-Tormo.png" group-title="Eventi Live",Motorsport | Ferrari Challenge Europe Coppa Shell - Circuit Ricardo Tormo in Valencia, Spain (23:00)
+#EXTINF:-1 tvg-id="ferrarichallengeeuropecoppashellcircuitricardotormoinvalenciaspain" tvg-name="Motorsport | Ferrari Challenge Europe Coppa Shell - Circuit Ricardo Tormo in Valencia, Spain (23:00)" tvg-logo="https://www.paradigmshiftracing.com/uploads/4/8/2/6/48261497/s120032300953134409_p130_i14_w600.png" group-title="Eventi Live",Motorsport | Ferrari Challenge Europe Coppa Shell - Circuit Ricardo Tormo in Valencia, Spain (23:00)
 https://thedaddy.click/stream/stream-60.php
 
 #EXTINF:-1 tvg-id="nascarcupseriesquakerstate400availableatwalmart" tvg-name="Motorsport | Nascar Cup Series: Quaker State 400 Available at Walmart (01:00)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/nextel-cup-series-logo-png-transparent.png" group-title="Eventi Live",Motorsport | Nascar Cup Series: Quaker State 400 Available at Walmart (01:00)
@@ -2925,12 +2922,6 @@ https://thedaddy.click/stream/stream-44.php
 
 #EXTINF:-1 tvg-id="ufc317earlyprelimsjhonatadinizvsjustintafa" tvg-name="MMA | UFC 317 Early Prelims : Jhonata Diniz vs Justin Tafa (00:00)" tvg-logo="https://raw.githubusercontent.com/stratcomhq/mfp-hf-growler/main/logos/Jhonata Diniz_vs_Justin Tafa.png" group-title="Eventi Live",MMA | UFC 317 Early Prelims : Jhonata Diniz vs Justin Tafa (00:00)
 https://thedaddy.click/stream/stream-31.php
-
-#EXTINF:-1 tvg-id="ufc317prelimsjackhermanssonvsgregoryrodrigues" tvg-name="MMA | UFC 317 Prelims : Jack Hermansson vs Gregory Rodrigues (02:00)" tvg-logo="https://raw.githubusercontent.com/stratcomhq/mfp-hf-growler/main/logos/Jack Hermansson_vs_Gregory Rodrigues.png" group-title="Eventi Live",MMA | UFC 317 Prelims : Jack Hermansson vs Gregory Rodrigues (02:00)
-https://thedaddy.click/stream/stream-31.php
-
-#EXTINF:-1 tvg-id="ufc317prelimsjackhermanssonvsgregoryrodrigues" tvg-name="MMA | UFC 317 Prelims : Jack Hermansson vs Gregory Rodrigues (02:00)" tvg-logo="https://raw.githubusercontent.com/stratcomhq/mfp-hf-growler/main/logos/Jack Hermansson_vs_Gregory Rodrigues.png" group-title="Eventi Live",MMA | UFC 317 Prelims : Jack Hermansson vs Gregory Rodrigues (02:00)
-https://thedaddy.click/stream/stream-44.php
 
 #EXTINF:-1 tvg-id="ufc317maincardiliatopuriavscharlesoliveira" tvg-name="MMA | UFC 317 Main Card : Ilia Topuria vs Charles Oliveira (04:00)" tvg-logo="https://raw.githubusercontent.com/stratcomhq/mfp-hf-growler/main/logos/Ilia Topuria_vs_Charles Oliveira.png" group-title="Eventi Live",MMA | UFC 317 Main Card : Ilia Topuria vs Charles Oliveira (04:00)
 https://thedaddy.click/stream/stream-31.php
@@ -2959,7 +2950,7 @@ https://thedaddy.click/stream/stream-70.php
 #EXTINF:-1 tvg-id="pgatourrocketmortgageclassic" tvg-name="Golf | PGA Tour Rocket Mortgage Classic (19:00)" tvg-logo="https://res.cloudinary.com/pgatour-prod/pgatour/sponsors/comcast-business-tour-2025-logo-dark.png" group-title="Eventi Live",Golf | PGA Tour Rocket Mortgage Classic (19:00)
 https://thedaddy.click/stream/stream-318.php
 
-#EXTINF:-1 tvg-id="pgatourgolfrocketclassicthirdround" tvg-name="Golf | PGA Tour Golf Rocket Classic, Third Round (21:00)" tvg-logo="https://b.fssta.com/uploads/application/leagues/logos/Golf-PGA.vresize.350.350.medium.0.png" group-title="Eventi Live",Golf | PGA Tour Golf Rocket Classic, Third Round (21:00)
+#EXTINF:-1 tvg-id="pgatourgolfrocketclassicthirdround" tvg-name="Golf | PGA Tour Golf Rocket Classic, Third Round (21:00)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/espn/misc_logos/500/golf.png" group-title="Eventi Live",Golf | PGA Tour Golf Rocket Classic, Third Round (21:00)
 https://thedaddy.click/stream/stream-767.php
 
 #EXTINF:-1 tvg-id="pgatourgolfrocketclassicthirdround" tvg-name="Golf | PGA Tour Golf Rocket Classic, Third Round (21:00)" tvg-logo="https://b.fssta.com/uploads/application/leagues/logos/Golf-PGA.vresize.350.350.medium.0.png" group-title="Eventi Live",Golf | PGA Tour Golf Rocket Classic, Third Round (21:00)
@@ -3079,7 +3070,7 @@ https://thedaddy.click/stream/stream-51.php
 #EXTINF:-1 tvg-id="xgamessaltlakecity2025" tvg-name="Extreme sports | X Games Salt Lake City 2025 (19:00)" tvg-logo="http://logos-download.com/wp-content/uploads/2016/11/X_Games_logo.png" group-title="Eventi Live",Extreme sports | X Games Salt Lake City 2025 (19:00)
 https://thedaddy.click/stream/stream-45.php
 
-#EXTINF:-1 tvg-id="usmasterspdcdartnorthamericanchampionship" tvg-name="Darts | US Masters PDC Dart, North American Championship (19:00)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/isf07m1555602216.png/preview" group-title="Eventi Live",Darts | US Masters PDC Dart, North American Championship (19:00)
+#EXTINF:-1 tvg-id="usmasterspdcdartnorthamericanchampionship" tvg-name="Darts | US Masters PDC Dart, North American Championship (19:00)" tvg-logo="https://images.launchbox-app.com/adcd3c64-af62-4592-a83f-6cc5986b7b50.png" group-title="Eventi Live",Darts | US Masters PDC Dart, North American Championship (19:00)
 https://thedaddy.click/stream/stream-765.php
 
 #EXTINF:-1 tvg-id="usmasterspdcdartsquarterfinalssemifinalsfinal" tvg-name="Darts | US Masters PDC Darts, Quarterfinals, Semifinals & Final (01:30)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/isf07m1555602216.png/preview" group-title="Eventi Live",Darts | US Masters PDC Darts, Quarterfinals, Semifinals & Final (01:30)
@@ -3091,7 +3082,7 @@ https://thedaddy.click/stream/stream-554.php
 #EXTINF:-1 tvg-id="liveracingfromyorkandthecurragh" tvg-name="Horse Racing | Live racing from York and the Curragh (14:00)" tvg-logo="https://www.curragh.ie/wp-content/uploads/2025/01/Thoroughbred-Country.png" group-title="Eventi Live",Horse Racing | Live racing from York and the Curragh (14:00)
 https://thedaddy.click/stream/stream-555.php
 
-#EXTINF:-1 tvg-id="liveracingfromnewcastleyorkandthecurragh" tvg-name="Horse Racing | Live racing from Newcastle, York and The Curragh (14:30)" tvg-logo="https://www.gainanimalnutrition.com/equine/wp-content/uploads/sites/2/2021/11/358x358-curragh-Logo-1-EDIT-358x358.png" group-title="Eventi Live",Horse Racing | Live racing from Newcastle, York and The Curragh (14:30)
+#EXTINF:-1 tvg-id="liveracingfromnewcastleyorkandthecurragh" tvg-name="Horse Racing | Live racing from Newcastle, York and The Curragh (14:30)" tvg-logo="https://www.bartvsports.com.au/media/xmrhsj0j/800-newcastle-olympic.png?width=1000" group-title="Eventi Live",Horse Racing | Live racing from Newcastle, York and The Curragh (14:30)
 https://thedaddy.click/stream/stream-350.php
 
 #EXTINF:-1 tvg-id="americasdayattheraces" tvg-name="Horse Racing | America's Day At the Races (18:30)" tvg-logo="https://images.seeklogo.com/logo-png/52/3/a-day-at-the-races-queen-album-logo-png_seeklogo-520226.png" group-title="Eventi Live",Horse Racing | America's Day At the Races (18:30)
@@ -3100,13 +3091,10 @@ https://thedaddy.click/stream/stream-39.php
 #EXTINF:-1 tvg-id="americasdayattheraces" tvg-name="Horse Racing | America's Day At the Races (21:30)" tvg-logo="https://images.seeklogo.com/logo-png/52/3/a-day-at-the-races-queen-album-logo-png_seeklogo-520226.png" group-title="Eventi Live",Horse Racing | America's Day At the Races (21:30)
 https://thedaddy.click/stream/stream-758.php
 
-#EXTINF:-1 tvg-id="americasdayattheraces" tvg-name="Horse Racing | America's Day At the Races (02:00)" tvg-logo="https://images.seeklogo.com/logo-png/52/3/a-day-at-the-races-queen-album-logo-png_seeklogo-520226.png" group-title="Eventi Live",Horse Racing | America's Day At the Races (02:00)
-https://thedaddy.click/stream/stream-758.php
-
 #EXTINF:-1 tvg-id="2025nhldraft" tvg-name="Ice Hockey | 2025 NHL Draft (17:00)" tvg-logo="https://smahtscouting.com/wp-content/uploads/2020/11/PrimaryLogo_WhiteBackground-e1605124830772.png" group-title="Eventi Live",Ice Hockey | 2025 NHL Draft (17:00)
 https://thedaddy.click/stream/stream-663.php
 
-#EXTINF:-1 tvg-id="nationalrugbyleaguestgeorgeillawarravsparramattaeels" tvg-name="Rugby League | National Rugby League : St.George Illawarra vs Parramatta Eels (09:30)" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/st-george-illawarra-dragons-logo.png" group-title="Eventi Live",Rugby League | National Rugby League : St.George Illawarra vs Parramatta Eels (09:30)
+#EXTINF:-1 tvg-id="nationalrugbyleaguestgeorgeillawarravsparramattaeels" tvg-name="Rugby League | National Rugby League : St.George Illawarra vs Parramatta Eels (09:30)" tvg-logo="https://raw.githubusercontent.com/stratcomhq/mfp-hf-growler/main/logos/St.George Illawarra_vs_Parramatta Eels.png" group-title="Eventi Live",Rugby League | National Rugby League : St.George Illawarra vs Parramatta Eels (09:30)
 https://thedaddy.click/stream/stream-449.php
 
 #EXTINF:-1 tvg-id="nationalrugbyleagueredcliffevssouthsydneyrabbitohs" tvg-name="Rugby League | National Rugby League : Redcliffe vs South Sydney Rabbitohs (11:35)" tvg-logo="https://raw.githubusercontent.com/stratcomhq/mfp-hf-growler/main/logos/Redcliffe_vs_South Sydney Rabbitohs.png" group-title="Eventi Live",Rugby League | National Rugby League : Redcliffe vs South Sydney Rabbitohs (11:35)
@@ -3148,7 +3136,7 @@ https://new.newkso.ru/wind/premium878/mono.m3u8
 #EXTINF:-1 tvg-id="netballsuperleaguepreliminaryfinalloughboroughlightningvsmanchesterthunder" tvg-name="Netball | Netball Superleague Preliminary Final : Loughborough Lightning vs. Manchester Thunder (17:00)" tvg-logo="https://raw.githubusercontent.com/stratcomhq/mfp-hf-growler/main/logos/Loughborough Lightning_vs_Manchester Thunder.png" group-title="Eventi Live",Netball | Netball Superleague Preliminary Final : Loughborough Lightning vs. Manchester Thunder (17:00)
 https://thedaddy.click/stream/stream-37.php
 
-#EXTINF:-1 tvg-id="premierlacrosseleaguephiladelphiawaterdogsvscaliforniaredwoods" tvg-name="Netball | Premier Lacrosse League : Philadelphia Waterdogs vs. California Redwoods (00:00)" group-title="Eventi Live",Netball | Premier Lacrosse League : Philadelphia Waterdogs vs. California Redwoods (00:00)
+#EXTINF:-1 tvg-id="premierlacrosseleaguephiladelphiawaterdogsvscaliforniaredwoods" tvg-name="Netball | Premier Lacrosse League : Philadelphia Waterdogs vs. California Redwoods (00:00)" tvg-logo="http://shop.premierlacrosseleague.com/cdn/shop/products/WaterdogsMagnet_1200x630.png?v=1580770581" group-title="Eventi Live",Netball | Premier Lacrosse League : Philadelphia Waterdogs vs. California Redwoods (00:00)
 https://thedaddy.click/stream/stream-44.php
 
 
